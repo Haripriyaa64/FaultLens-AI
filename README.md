@@ -95,6 +95,6 @@ The platform is under active development. Features and architecture described ab
 
 To make software debugging smarter, faster, and more reliable through AI-powered defect intelligence.
 
----
+
 
 
