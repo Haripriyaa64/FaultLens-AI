@@ -354,9 +354,4 @@ FaultLens AI proposes a modular, RAG-powered, multi-agent architecture for intel
 
 By combining historical defect retrieval, semantic similarity, specialized AI agents, and evidence-based fix recommendations, the platform aims to reduce manual debugging effort and assist developers in resolving software issues more efficiently.
 
-**Development Status:** Proposed architecture – implementation and validation will be carried out incrementally during the internship.
-
----
-
-**Project:** FaultLens AI  
 
