@@ -359,4 +359,4 @@ By combining historical defect retrieval, semantic similarity, specialized AI ag
 ---
 
 **Project:** FaultLens AI  
-**Internship:** Infosys Batch 5 (2026–27)
+
