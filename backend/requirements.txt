@@ -1,0 +1,12 @@
+﻿fastapi
+uvicorn[standard]
+sqlalchemy
+alembic
+psycopg[binary]
+pgvector
+pydantic-settings
+python-multipart
+redis
+celery
+pytest
+httpx
